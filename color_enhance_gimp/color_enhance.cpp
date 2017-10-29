@@ -172,6 +172,8 @@ void color_enhance(const Mat &img, Mat &dst, double vMax, double vMin)
 	}
 }
 int main(){
+
+	//test
 	Mat src;
 	string file("timg");
 	int n = 1;
